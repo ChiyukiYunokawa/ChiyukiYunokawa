@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![ChiyukiYunokawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiyukiYunokawa)](https://github.com/anuraghazra/github-readme-stats)
+A graduate student at the University of Melbourne, studying cyber security.
+
+I develop games and helper programs. Sometimes I produce music and visual art.
+
+I come from Harbin, China.
 
 <!--
 **ChiyukiYunokawa/ChiyukiYunokawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
