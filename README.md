@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A graduate student at the University of Melbourne, studying cyber security.
+A graduate student at the University of Melbourne, persuing a degree of Master of Information Technology - Cybersecurity.
 
 I develop games and helper programs. Sometimes I produce music and visual art.
 
