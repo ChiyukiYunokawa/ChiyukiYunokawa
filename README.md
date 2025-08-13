@@ -1,11 +1,29 @@
-### Hi there 👋
+# 👋 Hi, I'm Jinxuan Zhang
 
-A graduate student at the University of Melbourne, persuing a degree of Master of Information Technology - Cybersecurity.
+🎯 **Aspiring Blue Team Security Analyst | SOC Enthusiast | Capture the Flag Competitor**
 
-I develop games and helper programs. Sometimes I produce music and visual art.
+I'm a cybersecurity professional with a strong foundation in threat detection, incident response, and security engineering. I hold multiple certifications, including:
 
-I come from Harbin, China.
+- Certified in Cybersecurity (ISC2)
+- CompTIA Security+
+- CompTIA CySA+
+- Certified Network Defender (CND)
+- CEH in Progress | CISSP on the roadmap
 
+I’ve completed several hands-on labs and challenges through:
+
+- Blue Team Labs Online (BTLO)
+- World Wide CTF 2025 — *Top 30*
+
+---
+
+## 🔧 Current Focus
+- SOC operations and threat detection (SIEM, EDR, Chronicle, Splunk)
+- Incident triage, phishing analysis, and vulnerability remediation
+- NIST CSF, OWASP Top 10, post-quantum cryptography research
+- Linux security, PowerShell automation, log correlation
+
+---
 <!--
 **ChiyukiYunokawa/ChiyukiYunokawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
